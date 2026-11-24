@@ -1,0 +1,7 @@
+# Secrets et donnees personnelles : ne jamais publier
+.env
+data/
+*.key
+__pycache__/
+*.pyc
+*.zip
