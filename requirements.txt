@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+cryptography>=42
+numpy>=1.26
+scipy>=1.11
+yt-dlp>=2024.8
+faster-whisper>=1.0   # optionnel : transcription locale (CPU/GPU)
